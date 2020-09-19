@@ -12,5 +12,5 @@ An analysis of electric cars usage in a span of nine day.
 * Markdown
 
 ### License
-**MIT License**
+**[MIT License](https://github.com/JeromeMberia/Electric_cars/blob/master/LICENSE)**
 Copyright (c) 2020 **Jerome Mberia**
